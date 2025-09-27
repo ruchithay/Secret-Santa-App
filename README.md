@@ -1,2 +1,2 @@
 # mini-projects
-A secret santa application built with Python tkinter GUI
+All small projects using Python
